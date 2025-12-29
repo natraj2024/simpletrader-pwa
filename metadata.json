@@ -1,0 +1,7 @@
+{
+  "name": "SimpleTrader",
+  "description": "A production-ready, WCAG 2.2 AA compliant virtual trading platform for the Indian Stock Market, specifically optimized for blind and low-vision users with integrated audio feedback and keyboard-only navigation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
